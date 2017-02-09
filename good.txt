@@ -1,3 +1,5 @@
 good
 bad
 well+nice
+nice
+exact
